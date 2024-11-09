@@ -1,0 +1,5 @@
+torch: 2.5.0+cu121
+torchvision: 0.20.0+cu121
+matplotlib: 3.8.0
+PIL: 10.4.0
+tqdm: 4.66.6
