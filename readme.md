@@ -21,4 +21,4 @@ streamlit run app.py
 
 ### Results
 Autoencoder result :
-![]('./result-1.png')
+![Result - 1]('./result-1.png')
